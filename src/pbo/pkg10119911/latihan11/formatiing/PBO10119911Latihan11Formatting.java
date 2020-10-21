@@ -13,7 +13,7 @@ package pbo.pkg10119911.latihan11.formatting;
  * NIM      : 10119911
  * Deskripsi Program : Formatting
  */
-public class PBO10119911Latihan11Formatting.java {
+public class PBO10119911Latihan11Formatting {
 
     /**
      * @param args the command line arguments
